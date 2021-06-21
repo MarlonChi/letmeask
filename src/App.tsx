@@ -1,11 +1,11 @@
-import { OutlineButton } from "./components/Button";
+import { Button } from "./components/Button";
 function App() {
   return (
     <div>
-      <OutlineButton />
-      <OutlineButton />
-      <OutlineButton />
-      <OutlineButton />
+      <Button />
+      <Button />
+      <Button />
+      <Button />
     </div>
   );
 }
